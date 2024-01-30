@@ -72,7 +72,7 @@ nav ul li a:hover{
 /* header section */
 
 .header {
-  background-color: #495e57;
+  background-color: #363062;
   padding: 40px 0;
 }
 
@@ -84,7 +84,7 @@ position: relative;
 
 
 h2 {
-  color: #F4CE14;
+  color: #F5E8C7;
   font-size: 40px;
 }
 
@@ -100,7 +100,7 @@ h3 {
 }
 
 button {
-  background-color: #F4CE14;
+  background-color: #F5E8C7;
   color: black;
   padding: 14px 18px;
   border: none;
@@ -114,7 +114,7 @@ button {
 .banner-img{
   position: absolute;
   right: 13%;
-  top: 15%;
+  top: 23%;
   width: 400px;
 }
 
@@ -149,7 +149,7 @@ input, label{
 .btnReceive input{
   padding: 12px 16px;
   margin-top: 20px;
-  background: #495e57;
+  background: #F5E8C7;
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -190,7 +190,7 @@ input, label{
 .menu-items{
   /* height: 400px; */
   width: 350px;
-  background: #a9c8be;
+  background: #818FB4;
   border-radius: 8px;
 }
 
